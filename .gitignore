@@ -1,0 +1,11 @@
+# Python
+**/__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+mypkl-backend/.env
+
+# Dependencies
+node_modules/
+venv/
